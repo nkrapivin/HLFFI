@@ -1,0 +1,3 @@
+/// @description ...
+alarm[0] = 2;
+did = false;
